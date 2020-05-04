@@ -1,3 +1,26 @@
 body {
     padding-top: 5rem;
 }
+
+#submit{
+	background-color:#0080b3;
+	border-radius:5px;
+	color:white;
+	margin-top:20px;
+	padding:10px;
+}
+
+.box{
+	display:grid;
+
+}
+
+#description{
+	border-radius:0.5px;
+	
+	width:75%;
+}
+
+label{
+	font-weight: bold;
+}
